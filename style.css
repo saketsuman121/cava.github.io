@@ -36,7 +36,7 @@ h6 {
 
 p {
   font-size: 16px;
-  color: #465b52;
+  color: #174c35;
   margin: 15px 0 20px 0;
 }
 
@@ -79,10 +79,10 @@ body {
 
 #header {
     display: flex;
-    align-items: center;
+     align-items: center; 
     justify-content: space-between;
-    padding: 20px 80px;
-    background: #E3E6F3;
+    padding: 15px 10px;
+    background: #d9daa5;
     box-shadow: 0 5px 15px rgba(0,0,0,0.06);
     z-index: 999;
     position: sticky;
@@ -137,7 +137,7 @@ body {
 
 /* Home page */
 #hero {
-    background-image: url("img/hero4.png");
+    background-image: url("img/download.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
